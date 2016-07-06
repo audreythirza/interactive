@@ -1,3 +1,14 @@
 body {
-	background: yellow;
+	background: lightblue;
+}
+
+img { border-width: 5px; 
+	border-color: forestgreen;
+	border-style: inset;
+}
+
+.special {color: red;
+		  font-size: 20px;
+		  font-style: italic;
+
 }
