@@ -1,9 +1,8 @@
 body {
 	padding: 100px 50 100px 50;
 	
-	float: left;
+	float: right;
 	margin: 70px 30px 70px 30px;
-	position: relative;
-	border:5px groove red; 
+	
 }
 
