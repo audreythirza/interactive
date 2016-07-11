@@ -1,0 +1,12 @@
+body {
+	padding: 100px 50 100px 50;
+	
+	float: left;
+	margin: 500px 50px 100px 50px;
+	position: relative;
+	border:3px solid blue; 
+	display: table-column-group
+	height: 100px
+	width: 50px;
+
+}
