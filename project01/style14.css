@@ -6,7 +6,6 @@ body {
 	position: relative;
 	border:10px solid blue; 
 	display: table-column-group;
-	height: 100px
+	height: 100px;
 	width: 50px;
-
 }
