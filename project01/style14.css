@@ -3,7 +3,7 @@ body {
 	float: left;
 	margin: 100px 50px 100px 50px;
 	position: relative;
-	border:2px solid blue; 
-	display: inline-flex;
-	height: 500px;
+	border:1px solid pink; 
+	display: inline-block;
+	height: 700px;
 }
