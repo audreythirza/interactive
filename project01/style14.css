@@ -5,7 +5,7 @@ body {
 	margin: 100px 50px 100px 50px;
 	position: relative;
 	border:10px solid blue; 
-	display: table-column-group
+	display: table-column-group;
 	height: 100px
 	width: 50px;
 
