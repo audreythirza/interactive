@@ -1,3 +1,39 @@
-a. {display: inline-block;
-	background-color: blue;
+body {
+	font-family: "Rock Salt";
+	text-align: center;
+	background-image:url(http://www.vectors4all.net/preview/floral-ornaments-vector.jpg); 
+
+}
+
+* {box-sizing: border-box;
+
+}
+
+a {
+	display: inline-block;
+	background-color: darkturquoise;
+	color: white;
+	padding: 10px;
+	height: 250px;
+	vertical-align: top;
+	margin-bottom: 5px;
+	width: 300px;
+	transition: 1s all ease-out;
+	-webkit-transition: 1s all ease-out;
+	-moz-transition: 1s all ease-out;
+	-o-transition: 1s all ease-out;
+}
+
+div.links a {
+	text-decoration: none;
+}
+
+div.links a:hover {
+	background: mediumvioletred;
+	border-radius: 20px;
+}
+
+a.tape: hover {
+	  font-family: Georgia; 
+
 }
