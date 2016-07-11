@@ -3,7 +3,7 @@ body {
 	float: left;
 	margin: 100px 50px 100px 50px;
 	position: relative;
-	border:3px dotted double pink; 
+	border:3px double pink; 
 	display: block;
 	height: 1200px;
 	width: 100px;
