@@ -43,3 +43,40 @@ a.tape:hover {
 	font-size: x-small;
 }
 
+a.personality:hover {
+	font-size: large;
+}
+
+a.surgery:hover {
+	font-size: xx-small;
+}
+
+a.coughing:hover {
+	font-size: x-large;
+}
+
+a.check:hover {
+	font-size: larger;
+}
+
+a.window:hover {
+	font-size: medium;
+}
+
+a.labyrinth:hover {
+	font-size: small;
+}
+
+a.control:hover {
+	font-size: smaller;
+}
+
+a.world:hover {
+	font-size: xx-large;
+}
+
+a.chinchilla:hover {
+	font-size: x-small;
+}
+
+
