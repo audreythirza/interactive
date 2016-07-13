@@ -4,8 +4,8 @@ body {
 	float: right;
 	position: relative;
 	display: inline-flex;
-	font-style: normal;
-	font-weight: 700
+	font-style: italic;
+	font-weight: 900
 	font-size: 200%;
 
 }
