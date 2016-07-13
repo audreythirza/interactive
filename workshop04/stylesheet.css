@@ -39,16 +39,9 @@ div.links a:hover {
 	border-radius: 20px;
 }
 
-a.tape: hover {
-	  font-size: 30px
+div.links a.tape:hover {
+	background: mediumvioletred;
+	border-radius: 20px;
+	font-size: x-small;
 }
 
-a.personality: hover{
-	outline: none;
-	text-decoration: none;
-	position: relative;
-	font-size: 8em;
-	line-height: 1;
-	color: #9e9ba4;
-	display: inline-block;
-}
