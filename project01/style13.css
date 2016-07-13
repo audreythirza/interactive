@@ -3,7 +3,7 @@ body {
 	float: right;
 	margin: 110px 30px 70px 30px;
 	position: fixed;
-	border:3px dotted green; 
+	border:3px dotted black; 
 	display: inline-flex;
 
 }
