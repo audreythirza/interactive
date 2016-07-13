@@ -1,0 +1,10 @@
+body {
+	padding: 50px 30 30px 50;
+	float: right;
+	position: relative;
+	display: inline-flex;
+	font-style: normal;
+	font-weight: 550
+	font-size: 200%;
+
+}
