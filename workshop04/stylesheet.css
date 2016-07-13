@@ -40,8 +40,6 @@ div.links a:hover {
 }
 
 div.links a.tape:hover {
-	background: mediumvioletred;
-	border-radius: 20px;
 	font-size: x-small;
 }
 
