@@ -2,20 +2,17 @@ body {
 	font-family: 'Gloria Hallelujah', cursive;
 	text-align: center;
 	background-image:url(http://d3ui957tjb5bqd.cloudfront.net/images/screenshots/products/30/300/300227/texture0110-f.jpg);	
-	text-decoration: none;
 	color: black;
 	text-shadow: crimson
 	text-decoration: blink;
 }
 
-* {font-family: 'Gloria Hallelujah', cursive;
-	text-align: center;
-	background-image:url(http://d3ui957tjb5bqd.cloudfront.net/images/screenshots/products/30/300/300227/texture0110-f.jpg);	
+* {	
 	text-decoration: none;
-	color: black;
+	color: crimson;
 	text-shadow: crimson
 	text-decoration: blink;
-	
+
 }
 
 div.container {
