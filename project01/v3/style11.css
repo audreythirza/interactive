@@ -3,5 +3,15 @@ body {
 	float: right;
 	margin: 70px 30px 70px 30px;
 	
-}
+} 
+
+.p1{
+     	float: right;
+     }
+.p2{
+     	float: left;
+     }
+.p3{
+     	float:right;
+     }
 
