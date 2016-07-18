@@ -1,84 +1,84 @@
-body {
-	padding: 50px 30 30px 50;
-	float: left;
-	margin: 70px 30px 30px 50px;
-	position: relative;
-	display: inline-flex;
-
-}
 
 * {letter letter-spacing: -4px;
 }
+body {
+      padding: 50px 30 30px 50;
+      float: right; 
+      margin: 70px 30px 30px 50px;
+      position: relative;
+      display: inline-flex;
+
+}
 
 .p1 {
-      font-size: 40px;
-	text-align: center;
+      font size: 40;
+      text-align: center;
       margin: 0 auto;
       margin-top:500px;
       padding: 0;
       width: 450px;
-      border: 1px rgb(150,150,150) dashed;
+      border: 1px rgb(150,150,150) double;
   }
 
  .p2 {
-      font size: 50px;
- 	text-align: center;
+      font size: 50;
+      text-align: center;
       margin: 0 auto;
       margin-top:500px;
       padding: 0;
       width: 450px;
       
-      border: 1px rgb(150,150,150) dashed;
+      border: 1px rgb(150,150,150) inset;
 
  }
 
  .p3 {
-      font-size: 60px;
- 	text-align: center;
+      font size: 60;
+      text-align: center;
       margin: 0 auto;
       margin-top:500px;
       padding: 0;
       width: 450px;
-      border: 1px rgb(150,150,150) dashed;
+      border: 1px rgb(150,150,150) dotted;
  }
 
  .p4 {
-     font size: 50px;
+      font size: 70;
       text-align: center;
       margin: 0 auto;
       margin-top:500px;
       padding: 0;
       width: 450px;
-      
-      border: 1px rgb(150,150,150) dashed;
+      border: 1px rgb(150,150,150) outset;
+  }
 
- .p5 { 
-      font-size: 70px;
- 	text-align: center;
+ .p5 {
+      font size: 80;
+      text-align: center;
       margin: 0 auto;
       margin-top:500px;
       padding: 0;
       width: 450px;
-      border: 1px rgb(150,150,150) dashed;
+      border: 1px rgb(150,150,150) solid;
   }
 
  .p6{
-      font size: 50px;
+      font size: 90;
       text-align: center;
       margin: 0 auto;
       margin-top:500px;
       padding: 0;
       width: 450px;
-      
-      border: 1px rgb(150,150,150) dashed;
+      border: 1px rgb(150,150,150) groove;
+
  }
 
  .p7 {
-      font size: 90px;
- 	text-align: center;
+      font size: 100;
+      text-align: center;
       margin: 0 auto;
       margin-top:500px;
       padding: 0;
       width: 450px;
-      border: 1px rgb(150,150,150) dashed;
+      border: 1px rgb(150,150,150) inset;
  }
