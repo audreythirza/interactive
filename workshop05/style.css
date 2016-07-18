@@ -17,11 +17,16 @@
 }
 
 @media screen and (max-width: 600px) {
-  body {  }
+  body {
+  		background-image: url(http://www.dogwithhumanhands.com/toons/andrew/stickfiguredancetheater.gif);
+
+  }
 }
 
 @media screen and (max-width: 480px) {
-  body {  }
+  body {
+  		background-image: url(https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Dancing_men.svg/2000px-Dancing_men.svg.png); 
+  }
 }
 
 @media screen and (max-width: 320px) {
