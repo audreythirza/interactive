@@ -43,14 +43,14 @@ body {
  }
 
  .p4 {
-      font-size: 140px;
- 	text-align: center;
+     font size: 50px;
+      text-align: center;
       margin: 0 auto;
       margin-top:500px;
       padding: 0;
       width: 450px;
+      
       border: 1px rgb(150,150,150) dashed;
-  }
 
  .p5 { 
       font-size: 70px;
@@ -63,14 +63,14 @@ body {
   }
 
  .p6{
-      font-size: 80px;
- 	text-align: center;
+      font size: 50px;
+      text-align: center;
       margin: 0 auto;
       margin-top:500px;
       padding: 0;
       width: 450px;
+      
       border: 1px rgb(150,150,150) dashed;
-
  }
 
  .p7 {
