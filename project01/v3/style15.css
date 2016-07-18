@@ -1,5 +1,6 @@
 body {
 	padding: 50px 30 30px 50;
+      float: right; 
 	margin: 70px 30px 30px 50px;
 	position: relative;
 	display: inline-flex;
@@ -12,7 +13,7 @@ body {
       margin-top:500px;
       padding: 0;
       width: 450px;
-      border: 1px rgb(150,150,150) inset;
+      border: 1px rgb(150,150,150) double;
   }
 
  .p2 {
@@ -32,7 +33,7 @@ body {
       margin-top:500px;
       padding: 0;
       width: 450px;
-      border: 1px rgb(150,150,150) inset;
+      border: 1px rgb(150,150,150) dotted;
  }
 
  .p4 {
@@ -41,7 +42,7 @@ body {
       margin-top:500px;
       padding: 0;
       width: 450px;
-      border: 1px rgb(150,150,150) inset;
+      border: 1px rgb(150,150,150) outset;
   }
 
  .p5 {
@@ -50,7 +51,7 @@ body {
       margin-top:500px;
       padding: 0;
       width: 450px;
-      border: 1px rgb(150,150,150) inset;
+      border: 1px rgb(150,150,150) solid;
   }
 
  .p6{
@@ -59,7 +60,7 @@ body {
       margin-top:500px;
       padding: 0;
       width: 450px;
-      border: 1px rgb(150,150,150) inset;
+      border: 1px rgb(150,150,150) groove;
 
  }
 
