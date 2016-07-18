@@ -1,0 +1,26 @@
+body { background: red; }
+
+@media screen and (max-width: 1024px) {
+  body { 
+  	background-image: url(https://s-media-cache-ak0.pinimg.com/236x/b2/32/89/b23289815eceff4fbf6fd0bba48a769c.jpg);
+   }
+}
+
+@media screen and (max-width: 768px) {
+  body {
+  	background-image: url(http://markewbie.weebly.com/uploads/4/0/3/9/40396485/2987535.jpg?417);
+
+  }
+}
+
+@media screen and (max-width: 600px) {
+  body {  }
+}
+
+@media screen and (max-width: 480px) {
+  body {  }
+}
+
+@media screen and (max-width: 320px) {
+  body {  }
+}
