@@ -5,6 +5,7 @@ body {
 	color: black;
 	text-shadow: crimson
 	text-decoration: blink;
+	border-style: outset;
 }
 
 * {	
