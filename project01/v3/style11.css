@@ -6,12 +6,16 @@ body {
 } 
 
 .p1{
-     	float: right;
+     	float:right;
      }
 .p2{
-     	float: left;
+     	float:left;
      }
 .p3{
      	float:right;
      }
+.p4{
+     	float:left;
+     }
+  
 
