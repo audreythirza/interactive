@@ -1,0 +1,28 @@
+.nav-top {
+	font-family: 'Jolly Lodger', cursive;
+	border: 1px solid crimson;
+	font-size: 2em;
+	position: fixed;
+	top: 20px;
+	right: 20px;
+	padding: 10px;
+	color: crimson;
+}
+
+.nav-bottom {
+	font-family: 'Jolly Lodger', cursive;
+	border: 1px solid crimson;
+	font-size: 2em;
+	position: fixed;
+	bottom: 20px;
+	right: 20px;
+	padding: 10px;
+	color: crimson;
+}
+
+.nav-top a,
+.nav-bottom a {
+	color: crimson;
+	text-decoration: none;
+	margin: 5px;
+}
