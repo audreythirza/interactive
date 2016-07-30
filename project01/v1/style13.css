@@ -1,0 +1,9 @@
+body {
+	padding: 50px 50 50px 50;
+	float: right;
+	margin: 110px 30px 70px 30px;
+	position:relative;
+	border:3px dotted black; 
+	display: inline-flex;
+
+}
