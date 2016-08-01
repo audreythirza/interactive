@@ -1,97 +1,100 @@
 .p1 {
-      font-size: 50px;
+      font-size: 20px;
       letter-spacing: 12px;
-      text-align: right;
-      margin: 0 auto;
-      font-family: 'Shadows Into Light', cursive; 
+      text-align: center;
+      font-family: 'Nixie One', cursive; 
       text-transform: capitalize; 
       line-height: 100px;
+      background-color: red;
+      color: yellow;
   }
 
  .p2 {
-      font-size: 50px;
+      font-size: 20px;
       letter-spacing: 12px;
-      text-align: right;
-      margin: 0 auto; 
-      font-family: 'Shadows Into Light', cursive; 
+      text-align: center; 
+      font-family: 'Nixie One', cursive; 
       text-transform: capitalize;
       line-height: 100px; 
+      background-color: yellow;
+      color: green;
  }
 
 
  .p3 {
-      font-size: 50px;
+      font-size: 20px;
       letter-spacing: 12px;
-      text-align: right;
-      margin: 0 auto;
-      font-family: 'Shadows Into Light', cursive; 
+      text-align: center;
+      font-family: 'Nixie One', cursive; 
       text-transform: capitalize; 
       line-height: 100px; 
+      background-color: green;
+      color: blue ;
  }
         
 
  .p4 {
-      font-size: 50px;
+      font-size: 20px;
       letter-spacing: 12px;
-      text-align: right;
-      margin: 0 auto;
-      font-family: 'Shadows Into Light', cursive; 
+      text-align: center;
+      font-family: 'Nixie One', cursive; 
       text-transform: capitalize;
       line-height: 100px; 
+      background-color: blue;
+      color: orange;
  } 
       
 
  .p5 {
-      font-size: 50px;
+      font-size: 20px;
       letter-spacing: 12px;
-      text-align: right;
-      margin: 0 auto;
-      font-family: 'Shadows Into Light', cursive;  
+      text-align: center;
+      font-family: 'Nixie One', cursive;  
       text-transform: capitalize; 
       line-height: 100px; 
+      background-color: orange;
+      color: purple;
  }
        
 
  .p6{
-      font-size: 50px;
+      font-size: 20px;
       letter-spacing: 12px;
-      text-align: right;
-      margin: 0 auto;
-      font-family: 'Shadows Into Light', cursive; 
-      text-transform: capitalize;  
+      text-align: center;
+      font-family: 'Nixie One', cursive; 
+      text-transform: capitalize; 
+      background-color: purple; 
+      color: green;
       line-height: 100px; 
  }
       
 
 
  .p7 {
-      font-size: 50px;
+      font-size: 20px;
       letter-spacing: 12px;
-      text-align: right;
-      margin: 0 auto;
-      font-family: 'Shadows Into Light', cursive; 
+      text-align: center;
+      font-family: 'Nixie One', cursive; 
       text-transform: capitalize;  
+      background-color: green;
+      color: white;
       line-height: 100px; 
  }
       
 
  .p8 {
-      font-size: 50px;
-      text-align: right;
-      margin: 0 auto;
-      font-family: 'Shadows Into Light', cursive; 
-      text-transform: capitalize;  
+      font-size: 20px;
+      text-align: center;
+      font-family: 'Nixie One', cursive; 
+      text-transform: capitalize; 
+      background-color: white; 
       line-height: 100px; 
  }
       
 
-h1 {
-     font-family: 'Shadows Into Light', cursive;
-     font-size: 100px;
-     text-align: left;
-}
+h1    {
+      font-family: 'Nixie One', cursive;
+      font-size: 100px;
+      text-align: center;
 
-body {
-      border-style: solid, 10px;
-      padding: 20px;
 }
