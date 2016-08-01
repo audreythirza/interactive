@@ -1,74 +1,92 @@
-body {
-	padding: 50px 30 30px 50;
-	float: right;
-	margin: 70px 30px 30px 50px;
-	position: relative;
-	display: inline-flex;
-
-}
-
 .p1 {
-	text-align: center;
+      font-size: 50px;
+      letter-spacing: 12px;
+      text-align: center;
       margin: 0 auto;
-      margin-top:500px;
-      padding: 0;
-      width: 450px;
-      border: 1px rgb(150,150,150) dashed;
+      font-family: 'Orbitron', sans-serif; 
+      text-transform: capitalize; 
+      
   }
 
  .p2 {
- 	text-align: center;
-      margin: 0 auto;
-      margin-top:500px;
-      padding: 0;
-      width: 450px;
-      
-      border: 1px rgb(150,150,150) dashed;
-
+      font-size: 50px;
+      letter-spacing: 12px;
+      text-align: center;
+      margin: 0 auto; 
+      font-family: 'Orbitron', sans-serif; 
+      text-transform: capitalize; 
  }
 
+
  .p3 {
- 	text-align: center;
+      font-size: 50px;
+      letter-spacing: 12px;
+      text-align: center;
       margin: 0 auto;
-      margin-top:500px;
-      padding: 0;
-      width: 450px;
-      border: 1px rgb(150,150,150) dashed;
+      font-family: 'Orbitron', sans-serif; 
+      text-transform: capitalize; 
+        
+      
  }
 
  .p4 {
- 	text-align: center;
+      font-size: 50px;
+      letter-spacing: 12px;
+      text-align: center;
       margin: 0 auto;
-      margin-top:500px;
-      padding: 0;
-      width: 450px;
-      border: 1px rgb(150,150,150) dashed;
+      font-family: 'Orbitron', sans-serif; 
+      text-transform: capitalize; 
+      
   }
 
+
  .p5 {
- 	text-align: center;
+      font-size: 50px;
+      letter-spacing: 12px;
+      text-align: center;
       margin: 0 auto;
-      margin-top:500px;
-      padding: 0;
-      width: 450px;
-      border: 1px rgb(150,150,150) dashed;
+      font-family: 'Orbitron', sans-serif;  
+      text-transform: capitalize; 
+       
   }
 
  .p6{
- 	text-align: center;
+      font-size: 50px;
+      letter-spacing: 12px;
+      text-align: center;
       margin: 0 auto;
-      margin-top:500px;
-      padding: 0;
-      width: 450px;
-      border: 1px rgb(150,150,150) dashed;
-
+      font-family: 'Orbitron', sans-serif; 
+      text-transform: capitalize;  
+      
  }
+
 
  .p7 {
- 	text-align: center;
+      font-size: 50px;
+      letter-spacing: 12px;
+      text-align: center;
       margin: 0 auto;
-      margin-top:500px;
-      padding: 0;
-      width: 450px;
-      border: 1px rgb(150,150,150) dashed;
+      font-family: 'Orbitron', sans-serif; 
+      text-transform: capitalize;  
+      
  }
+
+ .p8 {
+      font-size: 50px;
+      text-align: center;
+      margin: 0 auto;
+      font-family: 'Orbitron', sans-serif; 
+      text-transform: capitalize;  
+      
+ }
+
+h1 {
+     font-family: 'Orbitron', sans-serif;
+     font-size: 100px;
+     text-align: center;
+}
+
+body {
+      border-style: inset;
+      padding: 20px;
+}
