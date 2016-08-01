@@ -1,78 +1,70 @@
+.h1 {font-family: 'Amatic SC', cursive;
+     font font-size: 120px;
+}
+
 body {
-	padding: 50px 30 30px 50;
-	float: right;
-	margin: 70px 30px 30px 50px;
-	position: relative;
-	display: inline-flex;
+      padding: 50px 30 30px 50;
+      text-align: center; 
+      margin: 70px 30px 30px 50px;
+      font-family: 'Amatic SC', cursive;  
+      line-height: 200%;   
 
 }
 
 .p1 {
-	text-align: center;
+      font size: 80;
+      text-align: center;
       margin: 0 auto;
-      margin-top:500px;
-      padding: 0;
-      width: 450px;
-      border: 1px rgb(150,150,150) dashed;
+      font-family: 'Amatic SC', cursive; 
+      
   }
 
  .p2 {
- 	text-align: center;
-      margin: 0 auto;
-      margin-top:500px;
-      padding: 0;
-      width: 450px;
-      
-      border: 1px rgb(150,150,150) dashed;
-
+      font size: 90;
+      text-align: center;
+      margin: 0 auto; 
+      font-family: 'Amatic SC', cursive; 
  }
 
+
  .p3 {
- 	text-align: center;
+      font size: 100;
+      text-align: center;
       margin: 0 auto;
-      margin-top:500px;
-      padding: 0;
-      width: 450px;
-      border: 1px rgb(150,150,150) dashed;
+      font-family: 'Amatic SC', cursive; 
+      
  }
 
  .p4 {
- 	text-align: center;
+      font size: 110;
+      text-align: center;
       margin: 0 auto;
-      margin-top:500px;
-      padding: 0;
-      width: 450px;
-      border: 1px rgb(150,150,150) dashed;
+      font-family: 'Amatic SC', cursive; 
+      
   }
 
+
  .p5 {
- 	text-align: center;
+      font size: 120;
+      text-align: center;
       margin: 0 auto;
-      margin-top:500px;
-      padding: 0;
-      width: 450px;
-      border: 1px rgb(150,150,150) dashed;
+      font-family: 'Amatic SC', cursive; 
   }
 
  .p6{
- 	text-align: center;
+      font size: 130;
+      text-align: center;
       margin: 0 auto;
-      margin-top:500px;
-      padding: 0;
-      width: 450px;
-      border: 1px rgb(150,150,150) dashed;
-
+      font-family: 'Amatic SC', cursive; 
  }
+
 
  .p7 {
- 	text-align: center;
-      margin: 0 auto;
-      margin-top:500px;
-      padding: 0;
-      width: 450px;
-      border: 1px rgb(150,150,150) dashed;
+      font size: 140;
+      text-align: center;
+      font-family: 'Amatic SC', cursive; 
  }
 
-* {
-      letter letter-spacing: -4px;
-}
+ * {
+      letter-spacing: -50px;
+ }
