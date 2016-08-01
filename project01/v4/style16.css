@@ -1,9 +1,12 @@
+.h1 {font-family: 'Lobster', cursive;
+     font font-size: 120px;
+}
+
 body {
       padding: 50px 30 30px 50;
-      float: right; 
+      text-align: center; 
       margin: 70px 30px 30px 50px;
-      position: relative;
-      display: inline-flex;
+      font-family: 'Lobster', cursive;     
 
 }
 
@@ -12,8 +15,7 @@ body {
       text-align: center;
       margin: 0 auto;
       margin-top:500px;
-      padding: 0;
-      width: 450px;
+      font-family: 'Lobster', cursive; 
       
   }
 
@@ -21,20 +23,18 @@ body {
       font size: 90;
       text-align: center;
       margin: 0 auto;
-      margin-top:500px;
-      padding: 0;
-      width: 450px;
-      
-
+      margin-top:500px; 
+      font-family: 'Lobster', cursive; 
  }
+
 
  .p3 {
       font size: 100;
       text-align: center;
       margin: 0 auto;
       margin-top:500px;
-      padding: 0;
-      width: 450px;
+      font-family: 'Lobster', cursive; 
+      
  }
 
  .p4 {
@@ -42,17 +42,17 @@ body {
       text-align: center;
       margin: 0 auto;
       margin-top:500px;
-      padding: 0;
-      width: 450px;
+      font-family: 'Lobster', cursive; 
+      
   }
+
 
  .p5 {
       font size: 120;
       text-align: center;
       margin: 0 auto;
       margin-top:500px;
-      padding: 0;
-      width: 450px;
+      font-family: 'Lobster', cursive; 
   }
 
  .p6{
@@ -60,16 +60,14 @@ body {
       text-align: center;
       margin: 0 auto;
       margin-top:500px;
-      padding: 0;
-      width: 450px;
-
+      font-family: 'Lobster', cursive; 
  }
+
 
  .p7 {
       font size: 140;
       text-align: center;
       margin: 0 auto;
       margin-top:500px;
-      padding: 0;
-      width: 450px;
+      font-family: 'Lobster', cursive; 
  }
