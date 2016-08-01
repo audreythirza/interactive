@@ -1,6 +1,10 @@
 body {
-	 background-color: slategrey;
-	 color: white;
+	 background-color: black;
+	 color: silver;
 	 padding: 0 auto;
-	 font-family: 'Comfortaa', cursive;
+	 font-family: 'Abel', cursive;
+}
+
+h1 {
+	text-align: center;
 }
