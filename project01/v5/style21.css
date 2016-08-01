@@ -1,84 +1,98 @@
-body {
-      padding: 50px 30 30px 50;
-      float: right; 
-      margin: 70px 30px 30px 50px;
-      position: relative;
-      display: inline-flex;
-
-}
-
-* {letter letter-spacing: -4px;
-}
-
 .p1 {
-      font size: 80;
-      text-align: center;
+      font-size: 50px;
+      letter-spacing: 12px;
+      text-align: right;
       margin: 0 auto;
-      margin-top:500px;
-      padding: 0;
-      width: 450px;
-      border: 1px rgb(150,150,150) double;
+      font-family: 'Shadows Into Light', cursive; 
+      text-transform: capitalize; 
+      line-height: 100px;
   }
 
  .p2 {
-      font size: 90;
-      text-align: center;
-      margin: 0 auto;
-      margin-top:500px;
-      padding: 0;
-      width: 450px;
-      
-      border: 1px rgb(150,150,150) inset;
-
+      font-size: 50px;
+      letter-spacing: 12px;
+      text-align: right;
+      margin: 0 auto; 
+      font-family: 'Shadows Into Light', cursive; 
+      text-transform: capitalize;
+      line-height: 100px; 
  }
+
 
  .p3 {
-      font size: 100;
-      text-align: center;
+      font-size: 50px;
+      letter-spacing: 12px;
+      text-align: right;
       margin: 0 auto;
-      margin-top:500px;
-      padding: 0;
-      width: 450px;
-      border: 1px rgb(150,150,150) dotted;
+      font-family: 'Shadows Into Light', cursive; 
+      text-transform: capitalize; 
+      line-height: 100px; 
  }
+        
 
  .p4 {
-      font size: 110;
-      text-align: center;
+      font-size: 50px;
+      letter-spacing: 12px;
+      text-align: right;
       margin: 0 auto;
-      margin-top:500px;
-      padding: 0;
-      width: 450px;
-      border: 1px rgb(150,150,150) outset;
-  }
+      font-family: 'Shadows Into Light', cursive; 
+      text-transform: capitalize;
+      line-height: 100px; 
+ } 
+      
 
  .p5 {
-      font size: 120;
-      text-align: center;
+      font-size: 50px;
+      letter-spacing: 12px;
+      text-align: right;
       margin: 0 auto;
-      margin-top:500px;
-      padding: 0;
-      width: 450px;
-      border: 1px rgb(150,150,150) solid;
-  }
+      font-family: 'Shadows Into Light', cursive;  
+      text-transform: capitalize; 
+      line-height: 100px; 
+ }
+       
 
  .p6{
-      font size: 130;
-      text-align: center;
+      font-size: 50px;
+      letter-spacing: 12px;
+      text-align: right;
       margin: 0 auto;
-      margin-top:500px;
-      padding: 0;
-      width: 450px;
-      border: 1px rgb(150,150,150) groove;
-
+      font-family: 'Shadows Into Light', cursive; 
+      text-transform: capitalize;  
+      line-height: 100px; 
  }
+      
+
 
  .p7 {
-      font size: 140;
-      text-align: center;
+      font-size: 50px;
+      letter-spacing: 12px;
+      text-align: right;
       margin: 0 auto;
-      margin-top:500px;
-      padding: 0;
-      width: 450px;
-      border: 1px rgb(150,150,150) inset;
+      font-family: 'Shadows Into Light', cursive; 
+      text-transform: capitalize;  
+      line-height: 100px; 
  }
+      
+
+ .p8 {
+      font-size: 50px;
+      text-align: right;
+      margin: 0 auto;
+      font-family: 'Shadows Into Light', cursive; 
+      text-transform: capitalize;  
+      line-height: 100px; 
+ }
+      
+
+h1    {
+      font-family: 'Shadows Into Light', cursive;
+      font-size: 100px;
+      text-align: left;
+
+}
+
+body {
+      border-style: solid, 10px;
+      padding: 20px;
+}
