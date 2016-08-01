@@ -1,74 +1,94 @@
+.h1 {font-family: 'Amatic SC';
+     font-size: 500px;
+}
+
 body {
-	padding: 50px 30 30px 50;
-	float: right;
-	margin: 70px 30px 30px 50px;
-	position: relative;
-	display: inline-flex;
+      padding: 50px 30 30px 50; 
+      letter-spacing: -7px;
+      margin: 70px 30px 30px 50px;
+      font-family: 'Amatic SC';  
+      line-height: 200%;   
 
 }
 
 .p1 {
-	text-align: center;
+      font size: 80;
+      letter-spacing: -7px;
+      text-align: center;
       margin: 0 auto;
-      margin-top:500px;
-      padding: 0;
-      width: 450px;
-      border: 1px rgb(150,150,150) dashed;
+      font-family: 'Amatic SC'; 
+      line-height: 200%; 
+      text-transform: capitalize, full-width; 
+      
   }
 
  .p2 {
- 	text-align: center;
-      margin: 0 auto;
-      margin-top:500px;
-      padding: 0;
-      width: 450px;
-      
-      border: 1px rgb(150,150,150) dashed;
-
+      font size: 90;
+      letter-spacing: -7px;
+      text-align: center;
+      margin: 0 auto; 
+      font-family: 'Amatic SC'; 
+      line-height: 200%;
+      text-transform: capitalize, full-width; 
  }
 
+
  .p3 {
- 	text-align: center;
+      font size: 100;
+      letter-spacing: -7px;
+      text-align: center;
       margin: 0 auto;
-      margin-top:500px;
-      padding: 0;
-      width: 450px;
-      border: 1px rgb(150,150,150) dashed;
+      font-family: 'Amatic SC'; 
+      line-height: 200%;
+      text-transform: capitalize, full-width; 
+        
+      
  }
 
  .p4 {
- 	text-align: center;
+      font size: 110px;
+      letter-spacing: -7px;
+      text-align: center;
       margin: 0 auto;
-      margin-top:500px;
-      padding: 0;
-      width: 450px;
-      border: 1px rgb(150,150,150) dashed;
+      font-family: 'Amatic SC'; 
+      line-height: 200%;  
+      text-transform: capitalize, full-width; 
+      
   }
 
+
  .p5 {
- 	text-align: center;
+      font size: 120;
+      letter-spacing: -7px;
+      text-align: center;
       margin: 0 auto;
-      margin-top:500px;
-      padding: 0;
-      width: 450px;
-      border: 1px rgb(150,150,150) dashed;
+      font-family: 'Amatic SC'; 
+      line-height: 200%; 
+      text-transform: capitalize, full-width; 
+       
   }
 
  .p6{
- 	text-align: center;
+      font size: 130;
+      letter-spacing: -7px;
+      text-align: center;
       margin: 0 auto;
-      margin-top:500px;
-      padding: 0;
-      width: 450px;
-      border: 1px rgb(150,150,150) dashed;
-
+      font-family: 'Amatic SC'; 
+      line-height: 200%; 
+      text-transform: capitalize, full-width;  
+      
  }
+
 
  .p7 {
- 	text-align: center;
+      font size: 140;
+      letter-spacing: -7px;
+      text-align: center;
       margin: 0 auto;
-      margin-top:500px;
-      padding: 0;
-      width: 450px;
-      border: 1px rgb(150,150,150) dashed;
+      font-family: 'Amatic SC'; 
+      line-height: 200%; 
+      text-transform: capitalize, full-width;  
+      
  }
+
+
