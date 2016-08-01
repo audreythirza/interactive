@@ -1,8 +1,8 @@
 body {
-	 background-color: black;
-	 color: silver;
+	 background-color: slategray;
+	 color: white;
 	 padding: 0 auto;
-	 font-family: 'Abel', cursive;
+	 font-family: 'Abel', sans-serif;
 }
 
 h1 {
