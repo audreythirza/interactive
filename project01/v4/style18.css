@@ -1,94 +1,84 @@
 .h1 {font-family: 'Amatic SC';
      font-size: 500px;
+     text-align: center;
 }
 
-body {
-      padding: 50px 30 30px 50; 
-      letter-spacing: -7px;
-      margin: 70px 30px 30px 50px;
-      font-family: 'Amatic SC';  
-      line-height: 200%;   
-
-}
 
 .p1 {
-      font size: 80;
-      letter-spacing: -7px;
+      font size: 500px;
+      letter-spacing: -5px;
       text-align: center;
       margin: 0 auto;
       font-family: 'Amatic SC'; 
-      line-height: 200%; 
       text-transform: capitalize, full-width; 
       
   }
 
  .p2 {
-      font size: 90;
-      letter-spacing: -7px;
+      font size: 500px;
+      letter-spacing: -5px;
       text-align: center;
       margin: 0 auto; 
       font-family: 'Amatic SC'; 
-      line-height: 200%;
       text-transform: capitalize, full-width; 
  }
 
 
  .p3 {
-      font size: 100;
-      letter-spacing: -7px;
+      font size: 500px;
+      letter-spacing: -5px;
       text-align: center;
       margin: 0 auto;
       font-family: 'Amatic SC'; 
-      line-height: 200%;
       text-transform: capitalize, full-width; 
         
       
  }
 
  .p4 {
-      font size: 110px;
-      letter-spacing: -7px;
+      font size: 500px;
+      letter-spacing: -5px;
       text-align: center;
       margin: 0 auto;
       font-family: 'Amatic SC'; 
-      line-height: 200%;  
       text-transform: capitalize, full-width; 
       
   }
 
 
  .p5 {
-      font size: 120;
-      letter-spacing: -7px;
+      font size: 500px;
+      letter-spacing: -5px;
       text-align: center;
       margin: 0 auto;
-      font-family: 'Amatic SC'; 
-      line-height: 200%; 
+      font-family: 'Amatic SC';  
       text-transform: capitalize, full-width; 
        
   }
 
  .p6{
-      font size: 130;
-      letter-spacing: -7px;
+      font size: 500px;
+      letter-spacing: -5px;
       text-align: center;
       margin: 0 auto;
       font-family: 'Amatic SC'; 
-      line-height: 200%; 
       text-transform: capitalize, full-width;  
       
  }
 
 
  .p7 {
-      font size: 140;
-      letter-spacing: -7px;
+      font size: 500px;
+      letter-spacing: -5px;
       text-align: center;
       margin: 0 auto;
       font-family: 'Amatic SC'; 
-      line-height: 200%; 
       text-transform: capitalize, full-width;  
       
+ }
+
+ .p8 {
+      text-align: center;
  }
 
 
