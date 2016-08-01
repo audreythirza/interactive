@@ -3,9 +3,11 @@
       letter-spacing: 12px;
       text-align: right;
       margin: 0 auto;
-      font-family: 'Shadows Into Light', cursive; 
+      font-family: 'Great Vibes', cursive; 
       text-transform: capitalize; 
       line-height: 100px;
+      background-color: red;
+      color: yellow;
   }
 
  .p2 {
@@ -13,9 +15,11 @@
       letter-spacing: 12px;
       text-align: right;
       margin: 0 auto; 
-      font-family: 'Shadows Into Light', cursive; 
+      font-family: 'Great Vibes', cursive; 
       text-transform: capitalize;
       line-height: 100px; 
+      background-color: yellow;
+      color: green;
  }
 
 
@@ -24,9 +28,11 @@
       letter-spacing: 12px;
       text-align: right;
       margin: 0 auto;
-      font-family: 'Shadows Into Light', cursive; 
+      font-family: 'Great Vibes', cursive; 
       text-transform: capitalize; 
       line-height: 100px; 
+      background-color: green;
+      color: blue ;
  }
         
 
@@ -35,9 +41,11 @@
       letter-spacing: 12px;
       text-align: right;
       margin: 0 auto;
-      font-family: 'Shadows Into Light', cursive; 
+      font-family: 'Great Vibes', cursive; 
       text-transform: capitalize;
       line-height: 100px; 
+      background-color: blue;
+      color: orange;
  } 
       
 
@@ -46,9 +54,11 @@
       letter-spacing: 12px;
       text-align: right;
       margin: 0 auto;
-      font-family: 'Shadows Into Light', cursive;  
+      font-family: 'Great Vibes', cursive;  
       text-transform: capitalize; 
       line-height: 100px; 
+      background-color: orange;
+      color: purple;
  }
        
 
@@ -57,8 +67,10 @@
       letter-spacing: 12px;
       text-align: right;
       margin: 0 auto;
-      font-family: 'Shadows Into Light', cursive; 
-      text-transform: capitalize;  
+      font-family: 'Great Vibes', cursive; 
+      text-transform: capitalize; 
+      background-color: purple; 
+      color: green;
       line-height: 100px; 
  }
       
@@ -69,8 +81,10 @@
       letter-spacing: 12px;
       text-align: right;
       margin: 0 auto;
-      font-family: 'Shadows Into Light', cursive; 
+      font-family: 'Great Vibes', cursive; 
       text-transform: capitalize;  
+      background-color: green;
+      color: white;
       line-height: 100px; 
  }
       
@@ -79,14 +93,15 @@
       font-size: 50px;
       text-align: right;
       margin: 0 auto;
-      font-family: 'Shadows Into Light', cursive; 
-      text-transform: capitalize;  
+      font-family: 'Great Vibes', cursive; 
+      text-transform: capitalize; 
+      background-color: white; 
       line-height: 100px; 
  }
       
 
 h1    {
-      font-family: 'Shadows Into Light', cursive;
+      font-family: 'Great Vibes', cursive;
       font-size: 100px;
       text-align: left;
 
