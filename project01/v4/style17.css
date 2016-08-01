@@ -1,5 +1,5 @@
 .h1 {font-family: 'Amatic SC';
-     font-size: 200px;
+     font-size: 400px;
 }
 
 body {
@@ -53,9 +53,9 @@ body {
 
 
  .p5 {
-      font size: 300px;
+      font size: 120;
       letter-spacing: 7px;
-      text-align: center;
+      text-align: left;
       margin: 0 auto;
       font-family: 'Amatic SC'; 
       line-height: 200%;   
@@ -64,7 +64,7 @@ body {
  .p6{
       font size: 130;
       letter-spacing: 7px;
-      text-align: right;
+      text-align: left;
       margin: 0 auto;
       font-family: 'Amatic SC'; 
       line-height: 200%;   
@@ -74,7 +74,7 @@ body {
  .p7 {
       font size: 140;
       letter-spacing: 7px;
-      text-align: right;
+      text-align: left;
       font-family: 'Amatic SC'; 
       line-height: 200%;   
  }
