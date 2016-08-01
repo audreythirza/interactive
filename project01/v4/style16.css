@@ -14,7 +14,7 @@ body {
       margin-top:500px;
       padding: 0;
       width: 450px;
-      border: 1px rgb(150,150,150) double;
+      
   }
 
  .p2 {
@@ -25,7 +25,6 @@ body {
       padding: 0;
       width: 450px;
       
-      border: 1px rgb(150,150,150) inset;
 
  }
 
@@ -36,7 +35,6 @@ body {
       margin-top:500px;
       padding: 0;
       width: 450px;
-      border: 1px rgb(150,150,150) dotted;
  }
 
  .p4 {
@@ -46,7 +44,6 @@ body {
       margin-top:500px;
       padding: 0;
       width: 450px;
-      border: 1px rgb(150,150,150) outset;
   }
 
  .p5 {
@@ -56,7 +53,6 @@ body {
       margin-top:500px;
       padding: 0;
       width: 450px;
-      border: 1px rgb(150,150,150) solid;
   }
 
  .p6{
@@ -66,7 +62,6 @@ body {
       margin-top:500px;
       padding: 0;
       width: 450px;
-      border: 1px rgb(150,150,150) groove;
 
  }
 
@@ -77,5 +72,4 @@ body {
       margin-top:500px;
       padding: 0;
       width: 450px;
-      border: 1px rgb(150,150,150) inset;
  }
