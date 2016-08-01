@@ -42,7 +42,7 @@ body {
  }
 
  .p4 {
-      font size: 110;
+      font size: 110px;
       letter-spacing: 7px;
       text-align: left;
       margin: 0 auto;
@@ -53,9 +53,9 @@ body {
 
 
  .p5 {
-      font size: 120;
+      font size: 300px;
       letter-spacing: 7px;
-      text-align: left;
+      text-align: center;
       margin: 0 auto;
       font-family: 'Amatic SC'; 
       line-height: 200%;   
@@ -64,7 +64,7 @@ body {
  .p6{
       font size: 130;
       letter-spacing: 7px;
-      text-align: left;
+      text-align: right;
       margin: 0 auto;
       font-family: 'Amatic SC'; 
       line-height: 200%;   
@@ -74,7 +74,7 @@ body {
  .p7 {
       font size: 140;
       letter-spacing: 7px;
-      text-align: left;
+      text-align: right;
       font-family: 'Amatic SC'; 
       line-height: 200%;   
  }
