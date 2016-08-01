@@ -87,6 +87,6 @@ h1 {
 }
 
 body {
-      border-style: inset, black;
-      padding: 30px;
+      border-style: inset;
+      padding: 20px;
 }
