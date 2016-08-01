@@ -73,7 +73,6 @@
 
  .p8 {
       font-size: 50px;
-      letter-spacing: -10px;
       text-align: center;
       margin: 0 auto;
       font-family: 'Dancing Script' cursive; 
@@ -81,7 +80,7 @@
       
  }
 
-.h1 {
+h1 {
      font-family: 'Dancing Script' cursive;
      font-size: 100px;
      text-align: center;
