@@ -1,8 +1,7 @@
 .p1 {
-      font-size: 30px;
+      font-size: 20px;
       letter-spacing: 12px;
-      text-align: right;
-      margin: 0 auto;
+      text-align: center;
       font-family: 'Nixie One', cursive; 
       text-transform: capitalize; 
       line-height: 100px;
@@ -11,10 +10,9 @@
   }
 
  .p2 {
-      font-size: 30px;
+      font-size: 20px;
       letter-spacing: 12px;
-      text-align: right;
-      margin: 0 auto; 
+      text-align: center; 
       font-family: 'Nixie One', cursive; 
       text-transform: capitalize;
       line-height: 100px; 
@@ -24,10 +22,9 @@
 
 
  .p3 {
-      font-size: 30px;
+      font-size: 20px;
       letter-spacing: 12px;
-      text-align: right;
-      margin: 0 auto;
+      text-align: center;
       font-family: 'Nixie One', cursive; 
       text-transform: capitalize; 
       line-height: 100px; 
@@ -37,10 +34,9 @@
         
 
  .p4 {
-      font-size: 30px;
+      font-size: 20px;
       letter-spacing: 12px;
-      text-align: right;
-      margin: 0 auto;
+      text-align: center;
       font-family: 'Nixie One', cursive; 
       text-transform: capitalize;
       line-height: 100px; 
@@ -50,10 +46,9 @@
       
 
  .p5 {
-      font-size: 30px;
+      font-size: 20px;
       letter-spacing: 12px;
-      text-align: right;
-      margin: 0 auto;
+      text-align: center;
       font-family: 'Nixie One', cursive;  
       text-transform: capitalize; 
       line-height: 100px; 
@@ -63,10 +58,9 @@
        
 
  .p6{
-      font-size: 30px;
+      font-size: 20px;
       letter-spacing: 12px;
-      text-align: right;
-      margin: 0 auto;
+      text-align: center;
       font-family: 'Nixie One', cursive; 
       text-transform: capitalize; 
       background-color: purple; 
@@ -77,10 +71,9 @@
 
 
  .p7 {
-      font-size: 30px;
+      font-size: 20px;
       letter-spacing: 12px;
-      text-align: right;
-      margin: 0 auto;
+      text-align: center;
       font-family: 'Nixie One', cursive; 
       text-transform: capitalize;  
       background-color: green;
@@ -90,9 +83,8 @@
       
 
  .p8 {
-      font-size: 30px;
-      text-align: right;
-      margin: 0 auto;
+      font-size: 20px;
+      text-align: center;
       font-family: 'Nixie One', cursive; 
       text-transform: capitalize; 
       background-color: white; 
@@ -103,11 +95,6 @@
 h1    {
       font-family: 'Nixie One', cursive;
       font-size: 100px;
-      text-align: left;
+      text-align: center;
 
-}
-
-body {
-      border-style: solid, 10px;
-      padding: 20px;
 }
