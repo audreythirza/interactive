@@ -1,84 +1,100 @@
-body {
-      padding: 50px 30 30px 50;
-      float: right; 
-      margin: 70px 30px 30px 50px;
-      position: relative;
-      display: inline-flex;
-
-}
-
-* {letter letter-spacing: -4px;
-}
-
 .p1 {
-      font size: 80;
+      font-size: 20px;
+      letter-spacing: 12px;
       text-align: center;
-      margin: 0 auto;
-      margin-top:500px;
-      padding: 0;
-      width: 450px;
-      border: 1px rgb(150,150,150) double;
+      font-family: 'Nixie One', cursive; 
+      text-transform: capitalize; 
+      line-height: 100px;
+      background-color: red;
+      color: yellow;
   }
 
  .p2 {
-      font size: 90;
-      text-align: center;
-      margin: 0 auto;
-      margin-top:500px;
-      padding: 0;
-      width: 450px;
-      
-      border: 1px rgb(150,150,150) inset;
-
+      font-size: 20px;
+      letter-spacing: 12px;
+      text-align: center; 
+      font-family: 'Nixie One', cursive; 
+      text-transform: capitalize;
+      line-height: 100px; 
+      background-color: yellow;
+      color: green;
  }
+
 
  .p3 {
-      font size: 100;
+      font-size: 20px;
+      letter-spacing: 12px;
       text-align: center;
-      margin: 0 auto;
-      margin-top:500px;
-      padding: 0;
-      width: 450px;
-      border: 1px rgb(150,150,150) dotted;
+      font-family: 'Nixie One', cursive; 
+      text-transform: capitalize; 
+      line-height: 100px; 
+      background-color: green;
+      color: blue ;
  }
+        
 
  .p4 {
-      font size: 110;
+      font-size: 20px;
+      letter-spacing: 12px;
       text-align: center;
-      margin: 0 auto;
-      margin-top:500px;
-      padding: 0;
-      width: 450px;
-      border: 1px rgb(150,150,150) outset;
-  }
+      font-family: 'Nixie One', cursive; 
+      text-transform: capitalize;
+      line-height: 100px; 
+      background-color: blue;
+      color: orange;
+ } 
+      
 
  .p5 {
-      font size: 120;
+      font-size: 20px;
+      letter-spacing: 12px;
       text-align: center;
-      margin: 0 auto;
-      margin-top:500px;
-      padding: 0;
-      width: 450px;
-      border: 1px rgb(150,150,150) solid;
-  }
+      font-family: 'Nixie One', cursive;  
+      text-transform: capitalize; 
+      line-height: 100px; 
+      background-color: orange;
+      color: purple;
+ }
+       
 
  .p6{
-      font size: 130;
+      font-size: 20px;
+      letter-spacing: 12px;
       text-align: center;
-      margin: 0 auto;
-      margin-top:500px;
-      padding: 0;
-      width: 450px;
-      border: 1px rgb(150,150,150) groove;
-
+      font-family: 'Nixie One', cursive; 
+      text-transform: capitalize; 
+      background-color: purple; 
+      color: green;
+      line-height: 100px; 
  }
+      
+
 
  .p7 {
-      font size: 140;
+      font-size: 20px;
+      letter-spacing: 12px;
       text-align: center;
-      margin: 0 auto;
-      margin-top:500px;
-      padding: 0;
-      width: 450px;
-      border: 1px rgb(150,150,150) inset;
+      font-family: 'Nixie One', cursive; 
+      text-transform: capitalize;  
+      background-color: green;
+      color: white;
+      line-height: 100px; 
  }
+      
+
+ .p8 {
+      font-size: 20px;
+      text-align: center;
+      font-family: 'Nixie One', cursive; 
+      text-transform: capitalize; 
+      background-color: white; 
+      line-height: 100px; 
+ }
+      
+
+h1    {
+      font-family: 'Nixie One', cursive;
+      font-size: 100px;
+      text-align: center;
+
+}

@@ -1,6 +1,6 @@
 .p1 {
-      font-size: 500px;
-      letter-spacing: -10px;
+      font-size: 50px;
+      letter-spacing: -12px;
       text-align: center;
       margin: 0 auto;
       font-family: 'Dancing Script' cursive; 
@@ -9,8 +9,8 @@
   }
 
  .p2 {
-      font-size: 400px;
-      letter-spacing: -10px;
+      font-size: 50px;
+      letter-spacing: -12px;
       text-align: center;
       margin: 0 auto; 
       font-family: 'Dancing Script' cursive; 
@@ -19,8 +19,8 @@
 
 
  .p3 {
-      font-size: 300px;
-      letter-spacing: -10px;
+      font-size: 50px;
+      letter-spacing: -12px;
       text-align: center;
       margin: 0 auto;
       font-family: 'Dancing Script' cursive; 
@@ -30,8 +30,8 @@
  }
 
  .p4 {
-      font-size: 200px;
-      letter-spacing: -10px;
+      font-size: 50px;
+      letter-spacing: -12px;
       text-align: center;
       margin: 0 auto;
       font-family: 'Dancing Script' cursive; 
@@ -41,8 +41,8 @@
 
 
  .p5 {
-      font-size: 100px;
-      letter-spacing: -5px;
+      font-size: 50px;
+      letter-spacing: -12px;
       text-align: center;
       margin: 0 auto;
       font-family: 'Dancing Script' cursive;  
@@ -52,7 +52,7 @@
 
  .p6{
       font-size: 50px;
-      letter-spacing: -4px;
+      letter-spacing: -12px;
       text-align: center;
       margin: 0 auto;
       font-family: 'Dancing Script' cursive; 
@@ -63,7 +63,7 @@
 
  .p7 {
       font-size: 50px;
-      letter-spacing: -3px;
+      letter-spacing: -12px;
       text-align: center;
       margin: 0 auto;
       font-family: 'Dancing Script' cursive; 
@@ -72,8 +72,7 @@
  }
 
  .p8 {
-      font-size: 30px;
-      letter-spacing: -2px;
+      font-size: 50px;
       text-align: center;
       margin: 0 auto;
       font-family: 'Dancing Script' cursive; 
@@ -81,8 +80,8 @@
       
  }
 
-.h1 {
+h1 {
      font-family: 'Dancing Script' cursive;
-     font-size: 400px;
+     font-size: 100px;
      text-align: center;
 }
