@@ -1,97 +1,133 @@
+body {
+      font-family: 'Indie Flower', cursive;
+      color: white;
+      background-image: url(http://wallpapercave.com/wp/A7dDuPv.jpg);
+      background-size: 100%;
+
+}
+
+
 .p1 {
-      font-size: 50px;
-      letter-spacing: 12px;
-      text-align: right;
-      margin: 0 auto;
-      font-family: 'Shadows Into Light', cursive; 
+      font-size: 20px;
+      text-align: center; 
       text-transform: capitalize; 
-      line-height: 100px;
   }
 
  .p2 {
-      font-size: 50px;
-      letter-spacing: 12px;
-      text-align: right;
-      margin: 0 auto; 
-      font-family: 'Shadows Into Light', cursive; 
-      text-transform: capitalize;
-      line-height: 100px; 
+      font-size: 20px;
+      text-align: center;  
+      text-transform: capitalize; 
  }
 
 
  .p3 {
-      font-size: 50px;
-      letter-spacing: 12px;
-      text-align: right;
-      margin: 0 auto;
-      font-family: 'Shadows Into Light', cursive; 
-      text-transform: capitalize; 
-      line-height: 100px; 
+      font-size: 20px;
+      text-align: center; 
+      text-transform: capitalize;  
  }
         
 
  .p4 {
-      font-size: 50px;
-      letter-spacing: 12px;
-      text-align: right;
-      margin: 0 auto;
-      font-family: 'Shadows Into Light', cursive; 
-      text-transform: capitalize;
-      line-height: 100px; 
+      font-size: 20px;
+      text-align: center; 
+      text-transform: capitalize; 
  } 
       
 
  .p5 {
-      font-size: 50px;
-      letter-spacing: 12px;
-      text-align: right;
-      margin: 0 auto;
-      font-family: 'Shadows Into Light', cursive;  
-      text-transform: capitalize; 
-      line-height: 100px; 
+      font-size: 20px;
+      text-align: center;  
+      text-transform: capitalize;  
  }
        
 
  .p6{
-      font-size: 50px;
-      letter-spacing: 12px;
-      text-align: right;
-      margin: 0 auto;
-      font-family: 'Shadows Into Light', cursive; 
+      font-size: 20px;
+      text-align: center; 
       text-transform: capitalize;  
-      line-height: 100px; 
  }
       
 
 
  .p7 {
-      font-size: 50px;
-      letter-spacing: 12px;
-      text-align: right;
-      margin: 0 auto;
-      font-family: 'Shadows Into Light', cursive; 
-      text-transform: capitalize;  
-      line-height: 100px; 
+      font-size: 20px;
+      text-align: center; 
+      text-transform: capitalize;   
  }
       
 
  .p8 {
-      font-size: 50px;
-      text-align: right;
-      margin: 0 auto;
-      font-family: 'Shadows Into Light', cursive; 
+      font-size: 20px;
+      text-align: center; 
       text-transform: capitalize;  
-      line-height: 100px; 
  }
       
 
-h1 {
-     font-family: 'Shadows Into Light', cursive;
-     font-size: 100px;
-     text-align: left;
+h1    {
+      font-size: 100px;
+      text-align: center;
+      color: crimson;
+
 }
 
+.swing {
+  -webkit-transform-origin: top center;
+  -ms-transform-origin: top center;
+  transform-origin: top center;
+  -webkit-animation-name: swing;
+  animation-name: swing;
+  -webkit-animation-duration: 1s;
+  animation-duration: 1s;
+  -webkit-animation-fill-mode: both;
+  animation-fill-mode: both;
+  }
+  @-webkit-keyframes swing {
+  20% {
+  -webkit-transform: rotate3d(0, 0, 1, 15deg);
+  transform: rotate3d(0, 0, 1, 15deg);
+  }
+  40% {
+  -webkit-transform: rotate3d(0, 0, 1, -10deg);
+  transform: rotate3d(0, 0, 1, -10deg);
+  }
+  60% {
+  -webkit-transform: rotate3d(0, 0, 1, 5deg);
+  transform: rotate3d(0, 0, 1, 5deg);
+  }
+  80% {
+  -webkit-transform: rotate3d(0, 0, 1, -5deg);
+  transform: rotate3d(0, 0, 1, -5deg);
+  }
+  100% {
+  -webkit-transform: rotate3d(0, 0, 1, 0deg);
+  transform: rotate3d(0, 0, 1, 0deg);
+  }
+  }
+  @keyframes swing {
+  20% {
+  -webkit-transform: rotate3d(0, 0, 1, 15deg);
+  transform: rotate3d(0, 0, 1, 15deg);
+  }
+  40% {
+  -webkit-transform: rotate3d(0, 0, 1, -10deg);
+  transform: rotate3d(0, 0, 1, -10deg);
+  }
+  60% {
+  -webkit-transform: rotate3d(0, 0, 1, 5deg);
+  transform: rotate3d(0, 0, 1, 5deg);
+  }
+  80% {
+  -webkit-transform: rotate3d(0, 0, 1, -5deg);
+  transform: rotate3d(0, 0, 1, -5deg);
+  }
+  100% {
+  -webkit-transform: rotate3d(0, 0, 1, 0deg);
+  transform: rotate3d(0, 0, 1, 0deg);
+  }
+  }
+
 body {
-      border-style: solid, 10px;
-      padding: 20px;
+      animation-name: swing;
+      animation-duration: 20s;
+      animation-iteration-count: infinite;
 }

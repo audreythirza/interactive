@@ -1,97 +1,119 @@
+body {
+      font-family: 'Amatic SC', cursive;
+      color: black;
+      background-image: url(http://pre07.deviantart.net/c739/th/pre/i/2009/360/b/8/textured_background_7_by_fairiegoodmother.jpg);
+
+}
+
+
 .p1 {
-      font-size: 50px;
-      letter-spacing: 12px;
-      text-align: right;
-      margin: 0 auto;
-      font-family: 'Shadows Into Light', cursive; 
+      font-size: 20px;
+      text-align: center; 
       text-transform: capitalize; 
-      line-height: 100px;
   }
 
  .p2 {
-      font-size: 50px;
-      letter-spacing: 12px;
-      text-align: right;
-      margin: 0 auto; 
-      font-family: 'Shadows Into Light', cursive; 
-      text-transform: capitalize;
-      line-height: 100px; 
+      font-size: 20px;
+      text-align: center;  
+      text-transform: capitalize; 
  }
 
 
  .p3 {
-      font-size: 50px;
-      letter-spacing: 12px;
-      text-align: right;
-      margin: 0 auto;
-      font-family: 'Shadows Into Light', cursive; 
-      text-transform: capitalize; 
-      line-height: 100px; 
+      font-size: 20px;
+      text-align: center; 
+      text-transform: capitalize;  
  }
         
 
  .p4 {
-      font-size: 50px;
-      letter-spacing: 12px;
-      text-align: right;
-      margin: 0 auto;
-      font-family: 'Shadows Into Light', cursive; 
-      text-transform: capitalize;
-      line-height: 100px; 
+      font-size: 20px;
+      text-align: center; 
+      text-transform: capitalize; 
  } 
       
 
  .p5 {
-      font-size: 50px;
-      letter-spacing: 12px;
-      text-align: right;
-      margin: 0 auto;
-      font-family: 'Shadows Into Light', cursive;  
-      text-transform: capitalize; 
-      line-height: 100px; 
+      font-size: 20px;
+      text-align: center;  
+      text-transform: capitalize;  
  }
        
 
  .p6{
-      font-size: 50px;
-      letter-spacing: 12px;
-      text-align: right;
-      margin: 0 auto;
-      font-family: 'Shadows Into Light', cursive; 
+      font-size: 20px;
+      text-align: center; 
       text-transform: capitalize;  
-      line-height: 100px; 
  }
       
 
 
  .p7 {
-      font-size: 50px;
-      letter-spacing: 12px;
-      text-align: right;
-      margin: 0 auto;
-      font-family: 'Shadows Into Light', cursive; 
-      text-transform: capitalize;  
-      line-height: 100px; 
+      font-size: 20px;
+      text-align: center; 
+      text-transform: capitalize;   
  }
       
 
  .p8 {
-      font-size: 50px;
-      text-align: right;
-      margin: 0 auto;
-      font-family: 'Shadows Into Light', cursive; 
+      font-size: 20px;
+      text-align: center; 
       text-transform: capitalize;  
-      line-height: 100px; 
  }
       
 
-h1 {
-     font-family: 'Shadows Into Light', cursive;
-     font-size: 100px;
-     text-align: left;
+h1    {
+      font-size: 100px;
+      text-align: center;
+
 }
 
+ .flipOutX {
+  -webkit-animation-name: flipOutX;
+  animation-name: flipOutX;
+  -webkit-animation-duration: .75s;
+  animation-duration: .75s;
+  -webkit-backface-visibility: visible !important;
+  backface-visibility: visible !important;
+  -webkit-animation-duration: 1s;
+  animation-duration: 1s;
+  -webkit-animation-fill-mode: both;
+  animation-fill-mode: both;
+  }
+  @-webkit-keyframes flipOutX {
+  0% {
+  -webkit-transform: perspective(400px);
+  transform: perspective(400px);
+  }
+  30% {
+  -webkit-transform: perspective(400px) rotate3d(1, 0, 0, -20deg);
+  transform: perspective(400px) rotate3d(1, 0, 0, -20deg);
+  opacity: 1;
+  }
+  100% {
+  -webkit-transform: perspective(400px) rotate3d(1, 0, 0, 90deg);
+  transform: perspective(400px) rotate3d(1, 0, 0, 90deg);
+  opacity: 0;
+  }
+  }
+  @keyframes flipOutX {
+  0% {
+  -webkit-transform: perspective(400px);
+  transform: perspective(400px);
+  }
+  30% {
+  -webkit-transform: perspective(400px) rotate3d(1, 0, 0, -20deg);
+  transform: perspective(400px) rotate3d(1, 0, 0, -20deg);
+  opacity: 1;
+  }
+  100% {
+  -webkit-transform: perspective(400px) rotate3d(1, 0, 0, 90deg);
+  transform: perspective(400px) rotate3d(1, 0, 0, 90deg);
+  opacity: 0;
+  }
+  } 
+
 body {
-      border-style: solid, 10px;
-      padding: 20px;
+      animation-name: flipOutX;
+      animation-duration: 15s;
 }

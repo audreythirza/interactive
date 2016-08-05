@@ -1,70 +1,57 @@
+body {
+      font-family: 'Freckle Face', cursive;
+      color: black;
+}
+
 .p1 {
       font-size: 20px;
-      letter-spacing: 12px;
-      text-align: center;
-      font-family: 'Nixie One', cursive; 
+      text-align: center; 
       text-transform: capitalize; 
       line-height: 100px;
-      background-color: red;
-      color: yellow;
+      background-color: orange;
   }
 
  .p2 {
       font-size: 20px;
-      letter-spacing: 12px;
-      text-align: center; 
-      font-family: 'Nixie One', cursive; 
+      text-align: center;  
       text-transform: capitalize;
       line-height: 100px; 
-      background-color: yellow;
-      color: green;
+      background-color: mediumblue;
  }
 
 
  .p3 {
       font-size: 20px;
-      letter-spacing: 12px;
-      text-align: center;
-      font-family: 'Nixie One', cursive; 
+      text-align: center; 
       text-transform: capitalize; 
       line-height: 100px; 
-      background-color: green;
-      color: blue ;
+      background-color: crimson;
  }
         
 
  .p4 {
       font-size: 20px;
-      letter-spacing: 12px;
-      text-align: center;
-      font-family: 'Nixie One', cursive; 
+      text-align: center; 
       text-transform: capitalize;
       line-height: 100px; 
-      background-color: blue;
-      color: orange;
+      background-color: cyan;
  } 
       
 
  .p5 {
       font-size: 20px;
-      letter-spacing: 12px;
-      text-align: center;
-      font-family: 'Nixie One', cursive;  
+      text-align: center;  
       text-transform: capitalize; 
       line-height: 100px; 
-      background-color: orange;
-      color: purple;
+      background-color: darkmagenta;
  }
        
 
  .p6{
       font-size: 20px;
-      letter-spacing: 12px;
-      text-align: center;
-      font-family: 'Nixie One', cursive; 
+      text-align: center; 
       text-transform: capitalize; 
-      background-color: purple; 
-      color: green;
+      background-color: lawngreen; 
       line-height: 100px; 
  }
       
@@ -72,29 +59,45 @@
 
  .p7 {
       font-size: 20px;
-      letter-spacing: 12px;
-      text-align: center;
-      font-family: 'Nixie One', cursive; 
+      text-align: center; 
       text-transform: capitalize;  
-      background-color: green;
-      color: white;
+      background-color: lightcoral;
       line-height: 100px; 
  }
       
 
  .p8 {
       font-size: 20px;
-      text-align: center;
-      font-family: 'Nixie One', cursive; 
+      text-align: center; 
       text-transform: capitalize; 
-      background-color: white; 
+      background-color: lightslategrey; 
       line-height: 100px; 
  }
       
 
 h1    {
-      font-family: 'Nixie One', cursive;
       font-size: 100px;
       text-align: center;
 
 }
+
+.container {
+      overflow: hidden;
+}
+
+p {
+  animation-duration: 10s;
+  animation-name: slidein;
+  animation-iteration-count: infinite;
+}
+
+@keyframes slidein {
+  from {
+    margin-left: 100%;
+    width: 300%; 
+  }
+
+  to {
+    margin-left: 0%;
+    width: 100%;
+  }
